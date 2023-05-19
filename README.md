@@ -1,2 +1,7 @@
-#My Collection bash scripts
-#Written_By_Me
+/\*
+
+My Collection of bash scripts
+
+Written By Me <3
+
+\*/
